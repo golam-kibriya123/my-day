@@ -1,7 +1,7 @@
 body{
 margin: 0%;
 padding: 0%;
-background: linear-gradient(to bottom, #777e7c, hsl(214, 21%, 32%));
+background-color: #5a7670;
 background-repeat: no-repeat;
 height: 700px;
 
@@ -19,18 +19,28 @@ section{
     margin-left: 10px;
     color: aliceblue;
     font-weight: bold;
-    height: 400px;
+    height: 450px;
+    
+
+}
+.half-wethid p {box-shadow: 10px 10px 400px -19px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 400px -19px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 400px -19px rgba(0,0,0,0.75);
+    border: solid 5px #ff8c00;
+    border-radius: 2px;
+    padding: 10px;
 }
 .half-wethid h1{font-size: 45px;
     font-family: 'Barlow Condensed', sans-serif;
     
 }
 .web-sit{ font-size: 25px;
-color: coral;
+    text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
+
 
 }
 .smail{
-    color: darkorange;
+    color: #ff8c00;
     
 }
 .baton{ text-decoration: none;
@@ -39,4 +49,20 @@ font-weight: bold;
 background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
 padding: 5px 10px;
 border-radius: 10px;
+border: solid 2px orange;
 }
+.border-1{ margin: 8px;
+    color: #d9d9d9;
+    color: #d9d9d9;
+padding: 15px;
+    border: 5px solid hsl(87, 89%, 18%) ;
+    border-radius: 2px;
+    width: 45%;
+
+
+    box-shadow: 10px 10px 400px -19px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 400px -19px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 400px -19px rgba(0,0,0,0.75);
+
+}
+
