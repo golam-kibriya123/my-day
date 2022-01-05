@@ -1,0 +1,42 @@
+body{
+margin: 0%;
+padding: 0%;
+background: linear-gradient(to bottom, #777e7c, hsl(214, 21%, 32%));
+background-repeat: no-repeat;
+height: 700px;
+
+
+}
+section{
+    display: flex;
+}
+.half-wethid img{ width: 90%;
+    margin-left: 45px;
+    margin-top: 8px;
+   
+}
+.half-wethid{width: 45%;
+    margin-left: 10px;
+    color: aliceblue;
+    font-weight: bold;
+    height: 400px;
+}
+.half-wethid h1{font-size: 45px;
+    font-family: 'Barlow Condensed', sans-serif;
+    
+}
+.web-sit{ font-size: 25px;
+color: coral;
+
+}
+.smail{
+    color: darkorange;
+    
+}
+.baton{ text-decoration: none;
+color: white;
+font-weight: bold;
+background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
+padding: 5px 10px;
+border-radius: 10px;
+}
