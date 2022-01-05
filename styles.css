@@ -13,7 +13,8 @@ section{
 .half-wethid img{ width: 90%;
     margin-left: 45px;
     margin-top: 8px;
-   
+   height: 80%;
+   object-fit: cover;
 }
 .half-wethid{width: 45%;
     margin-left: 10px;
